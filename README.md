@@ -1,15 +1,15 @@
 ![MasterHead](https://bcuassets.blob.core.windows.net/img/big-data-analytics-banner-image-131934029945360761.jpg)
 <h1 align="center">Hello 👋, I'm Gul Munir Hassan</h1>
-<h3 align="center">A Mobile App Developer and Tech Enthusiast ✨👻</h3>
+<h3 align="center">Tech Enthusiast, Coder and Developer ✨👻</h3>
 <img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966]([https://www.businessofapps.com/wp-content/uploads/2020/08/zymr8_steps_the_mobile_app_dev_lifecycle_cover.jpg](https://www.businessofapps.com/wp-content/uploads/2020/08/zymr8_steps_the_mobile_app_dev_lifecycle_cover.jpg))">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulmunirhassan&label=Profile%20views&color=0e75b6&style=flat" alt="gulmunirhassan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/gulmunirhassan" target="blank"><img src="https://img.shields.io/twitter/follow/gulmunirhassan?logo=twitter&style=for-the-badge" alt="gulmunirhassan" /></a> </p>
 
-- 🌱 I’m currently learning **Big Data Analytics and Techniques, Machine Learning, Advance Python Programming and Development, MongoDB**
+- 🌱 I’m currently learning **Front-End Development from Coursera @META**
 
-- 💬 Ask me about **Data Analysis, Data Wrangling, Data Visualization, EDA, PowerBI, MATLAB, Machine Learning**
+- 💬 Ask me about **React.JS, Node.JS, MongoDB, ExpressJS, React Hooks, Type Script**
 
 - 📫 How to reach me **gulmunirbrohi786@gmail.com**
 
