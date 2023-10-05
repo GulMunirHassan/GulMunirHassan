@@ -20,9 +20,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gulmunirhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gulmunirhassan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gul munir hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gul munir hassan" height="30" width="40" /></a>
-<a href="https://fb.com/gul munir hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gul munir hassan" height="30" width="40" /></a>
+<a href="https://twitter.com/GulMunirHassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gulmunirhassan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gul-munir-hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gul munir hassan" height="30" width="40" /></a>
+<a href="https://fb.com/gulmunirhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gul munir hassan" height="30" width="40" /></a>
 <a href="https://instagram.com/gul_mun1r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gul_mun1r" height="30" width="40" /></a>
 </p>
 
