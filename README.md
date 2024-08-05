@@ -6,7 +6,7 @@
 
 <img align="right" alt= "coding" width="400" src="https://stiriinternationale.ro/wp-content/uploads/2020/05/laptop-hacker-surveillance.gif">
 
-- 🌱 I’m currently learning **Microsoft Cybersecurity Analyst and Practical Ethical Hacking(PEH) from TCM Security**
+- 🌱 I’m currently learning **Practical Ethical Hacking(PEH) from TCM Security**
 
 - 👯 I’m looking to collaborate on **Cybersecurity Project**
 
